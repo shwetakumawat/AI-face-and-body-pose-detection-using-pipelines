@@ -1,1 +1,1 @@
-# AI-face-and-body-pose-detection-using-mediapipe-
+# AI-face-and-body-pose-detection-using-pipelines 
